@@ -1,1 +1,7 @@
+# 깃으로 관리하고 싶지 않은 파일들의 목록
+# 여기서는 샵이 주석이다
+
 /bin/
+/.settings/
+.classpath
+.project
